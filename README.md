@@ -21,5 +21,3 @@ only repair them but also, we will be replacing affected parts of phone with new
 make them look like new ones. 
 
 Under construction
-
-link to live website hosted on Netlify: https://ornate-cascaron-cae08e.netlify.app/
